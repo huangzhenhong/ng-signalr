@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+
+/src/SignalMonitoring.API/obj
+/src/.vs
+/.vs
+/src/signal-monitoring-ui/.chrome
+/src/SignalMonitoring.API/Properties/serviceDependencies.json
+/src/SignalMonitoring.API/Properties/serviceDependencies.local.json
+/src/SignalMonitoring.API/yarn.lock
+src/signal-monitoring-ui/package-lock.json
+/src/signal-monitoring-ui/.vscode
+/src/SignalMonitoring.API/.vscode
