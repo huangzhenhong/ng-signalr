@@ -11,6 +11,6 @@
 /src/SignalMonitoring.API/Properties/serviceDependencies.json
 /src/SignalMonitoring.API/Properties/serviceDependencies.local.json
 /src/SignalMonitoring.API/yarn.lock
-src/signal-monitoring-ui/package-lock.json
+/src/signal-monitoring-ui/package-lock.json
 /src/signal-monitoring-ui/.vscode
 /src/SignalMonitoring.API/.vscode
